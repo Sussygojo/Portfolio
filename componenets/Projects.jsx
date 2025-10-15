@@ -19,7 +19,7 @@ export default function Projects() {
       description:
         "A Hand-Pose Interpreter that recognizes few Hand positions and gives us the code.",
       tech: ["Python", "Computer Vision"],
-      source: "/image.png",
+      source: "/Hand-Pose.png",
       link: "https://github.com/Sussygojo/HandSigns",
       github: "#",
     },
