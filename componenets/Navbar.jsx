@@ -60,7 +60,7 @@ export default function Navbar() {
             Contact
           </a>
           <a
-            href="/Nikhil_resumee.pdf"
+            href="/Resume W port.pdf"
             target="_blank"
             className="hover:text-gray-300 transition border px-4 rounded-xl  bg-white text-black font-medium"
           >
@@ -95,6 +95,13 @@ export default function Navbar() {
             className="hover:text-gray-400 transition"
           >
             Contact
+          </a>
+          <a
+            href="/Resume W port.pdf"
+            target="_blank"
+            className="hover:text-gray-300 transition border px-4 rounded-xl  bg-white text-black font-medium"
+          >
+            Resume
           </a>
         </div>
       )}
