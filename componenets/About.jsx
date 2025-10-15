@@ -4,7 +4,7 @@ export default function About() {
   return (
     <section
       id="about"
-      className="py-20 mt-10 mb-30 px-6 text-center  max-w-4xl scroll-p-3"
+      className="py-20 mt-10 mb-30 px-6 text-center max-w-4xl mx-auto scroll-p-3"
     >
       <motion.div
         initial={{ opacity: 0, scale: 0.8 }}
