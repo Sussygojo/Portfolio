@@ -20,8 +20,7 @@ export default function About() {
             Next.js, Tailwind CSS, and JavaScript and I'm currently working on a
             Financial web application that combinese my interest in technology
             and financial systems. I’m ambitious about refining my development
-            style and building scalable, efficient products — especially in the
-            tech and finance space.
+            style and building scalable, efficient products.
           </p>
         </div>
         <motion.div
